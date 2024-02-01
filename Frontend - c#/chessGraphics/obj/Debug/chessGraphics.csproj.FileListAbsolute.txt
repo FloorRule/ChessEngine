@@ -1,0 +1,10 @@
+C:\Users\משתמש\Desktop\chessGraphics\chessGraphics\bin\Debug\chessGraphics.exe.config
+C:\Users\משתמש\Desktop\chessGraphics\chessGraphics\bin\Debug\chessGraphics.exe
+C:\Users\משתמש\Desktop\chessGraphics\chessGraphics\bin\Debug\chessGraphics.pdb
+C:\Users\משתמש\Desktop\chessGraphics\chessGraphics\obj\Debug\chessGraphics.csprojAssemblyReference.cache
+C:\Users\משתמש\Desktop\chessGraphics\chessGraphics\obj\Debug\chessGraphics.Form1.resources
+C:\Users\משתמש\Desktop\chessGraphics\chessGraphics\obj\Debug\chessGraphics.Properties.Resources.resources
+C:\Users\משתמש\Desktop\chessGraphics\chessGraphics\obj\Debug\chessGraphics.csproj.GenerateResource.cache
+C:\Users\משתמש\Desktop\chessGraphics\chessGraphics\obj\Debug\chessGraphics.csproj.CoreCompileInputs.cache
+C:\Users\משתמש\Desktop\chessGraphics\chessGraphics\obj\Debug\chessGraphics.exe
+C:\Users\משתמש\Desktop\chessGraphics\chessGraphics\obj\Debug\chessGraphics.pdb
