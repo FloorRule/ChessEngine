@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\משתמש\source\repos\projectCheckboy\projectCheckboy\Source.cpp(29,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\משתמש\source\repos\projectCheckboy\projectCheckboy\Source.cpp(202,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\משתמש\source\repos\projectCheckboy\projectCheckboy\Source.cpp(264,22): warning C4018: '<': signed/unsigned mismatch
+  projectCheckboy.vcxproj -> C:\Users\משתמש\source\repos\projectCheckboy\Debug\projectCheckboy.exe
