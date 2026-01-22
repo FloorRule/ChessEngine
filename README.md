@@ -4,7 +4,9 @@ A full chess engine implementation with a **C++ backend** for game logic and a *
 The engine supports standard movement rules, turn handling, captures, checks, and checkmates, and communicates with the UI through a custom pipe protocol.
 
 
-https://github.com/user-attachments/assets/7bb9512b-be17-475d-9594-03a34fc9c7c8
+
+https://github.com/user-attachments/assets/bb791bb9-17d2-425c-948c-20db0e8621b7
+
 
 
 ---
